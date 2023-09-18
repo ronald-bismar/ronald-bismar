@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, Javascript, Java, C#, Kotlin**
 
-- 📫 How to reach me **www.linkedin.com/in/ ronald-bismar**
+- 📫 How to reach me **www.linkedin.com/in/ronald-bismar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
