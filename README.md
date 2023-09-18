@@ -9,8 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ronald bismar limachi mamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronald bismar limachi mamani" height="30" width="40" /></a>
-<a href="https://fb.com/ronald bismar limachi mamani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ronald bismar limachi mamani" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/ ronald-bismar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ronald-bismar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
