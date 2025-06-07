@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ronald Bismar</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **NodeJS Flutter**
+- 🌱 I’m currently learning **NestJS Flutter**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Java, C#, Kotlin**
+- 💬 Ask me about **Java, Kotlin, HTML, CSS, Javascript,**
 
 - 📫 How to reach me **www.linkedin.com/in/ronald-bismar**
 
